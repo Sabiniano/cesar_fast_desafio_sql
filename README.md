@@ -26,3 +26,5 @@ As tabelas e os atributos desse modelo são:
 Modelo Lógico
 
 ![image](https://github.com/Sabiniano/cesar_fast_desafio_sql/assets/12420013/4fbc67b2-9d31-4b95-8c07-e44a2643a77e)
+
+![image](https://github.com/Sabiniano/cesar_fast_desafio_sql/assets/12420013/acdd2ab4-6ea6-4868-a2a5-21dbb8152adc)
